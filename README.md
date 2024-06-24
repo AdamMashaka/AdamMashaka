@@ -8,7 +8,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
- - 📫 How to reach me: [AdamMashaka@gmail.com](mailto:mashakaadam123@gmail.com);
+ - 📫 How to reach me: [adammashaka@gmail.com](mailto:mashakaadam123@gmail.com);
  - 🔗 My Website: https://adamportifolio.netlify.app/
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
  
