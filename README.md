@@ -17,7 +17,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
   
  <br>
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/AdamMashaka/count.svg" alt="desphixs" /> </p>
+ <p align="left"> <img src="https://profile-counter.glitch.me/AdamMashaka/count.svg" alt="AdamMashaka" /> </p>
  
  </br>
 
