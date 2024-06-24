@@ -40,3 +40,107 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 <br />
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMashaka&hide=React,Sass,Django,JavaScript,Fllutter,java,html,css&theme=radical)](https://github.com/AdamMashaka/github-readme-stats)
+
+[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
+
+<h3>My Tech stack</h3>
+<ul>
+    <li>
+        <p><b>languages</b></p>
+        <ul>
+            <li>Python | Javascript | Rust | C/C++ | Arduino </li>
+            <li>Html | Css | Yaml | Json</li>
+        </ul>
+    </li>
+    <li>
+        <p><b>Frameworks & Tools</b></p>
+        <ul>
+            <li>
+                <p>Web Frameworks</p>
+                <ul>
+                    <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
+                </ul>
+            <li>
+                <p>Data Science (ML/AI)</p>
+                <ul>
+                    <li>Sklearn | PyTorch | Tensorflow</li>
+                </ul>
+            </li>
+            <li>
+                <p> Databases & Storange</p>
+                <ul>
+                    <li> Sqlite | Mysql | MariaDB | Amazon Auora</li>
+                    <li>MongoDB | Firestore | Amazon DocumentDB </li>
+                    <li> DynamoDB | S3 | Kinesis |  Redis</li>
+                </ul>
+                </li>
+            <li>
+                <p>Serverless</p>
+                <ul>
+                    <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
+                    <li> Google Cloud run</li>
+                </ul>
+                </li>
+            <li>
+                <p>IoT</p>
+                <ul>
+                    <li>Aws IoT Core | Aws Greengrass | Aws FreeRTOS</li>
+                    <li>socketserver | Paho </li>
+                    <li> Raspberry Pi | NodeMCU | Arduino</li>
+                </ul>
+            </li>
+        <li>
+            <p> Cloud & Hosting</samp</p>
+            <ul>
+                <li>AWS | Google Cloud | Digital Ocean | Heroku | Vercel </li>
+            </ul>
+        </li>
+        <li>
+            <p> API Testing</samp</p>
+            <ul>
+                <li> Insomia | Postman </li>
+            </ul>
+        </li>
+        <li>
+            <p> Distros </samp</p>
+            <ul>
+                <li> Ubuntu | Deepin | Kali </li>
+            </ul>
+        </li>
+        <li>
+            <p> Shells </samp</p>
+            <ul>
+                <li> Zsh | Bash  </li>
+            </ul>
+        </li>
+        <li>
+            <p> Version Control </samp</p>
+            <ul>
+                <li> Git | Github  </li>
+            </ul>
+        </li>
+        <li>
+            <p> Code Editor(IDE) + Environment </samp</p>
+            <ul>
+                <li> VSCode | Sublime | Vim | Nano  </li>
+                <li> Music + Coffee + Snacks
+            </ul>
+        </li>
+        </ul>
+    </li>
+    <li>
+        <p><b> Open Source </b></p>
+        <p> Here couple of open source projects I maintain</p>
+        <ul>
+            <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
+            <li><a href="https://kalebu.github.io/python-pesa/">Pypesa</a> Python package to easy integration with Mpesa API</li>
+            <li><a href="https://github.com/kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
+            <li><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </li>
+            <li><a href="https://kalebu.github.io/mtaa-docs/">Mtaa</a> Python package with all Tanzania locations from regions to streets </li>
+            <li><a href="https://nextsms.github.io/python-client/">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
+            <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
+            <li><a href="https://github.com/Kalebu/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
+            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.</li>
+            <li><a href = "https://github.com/kalebu/python-dpo">DirectPayOnline</a> A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)</li>
+        </ul>
+    </li>
