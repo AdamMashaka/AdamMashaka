@@ -2,7 +2,7 @@
 
 <br>
 
-Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile app developer 👨🏻‍💻 from <b>Tanzania </b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
 
 <br>
 
