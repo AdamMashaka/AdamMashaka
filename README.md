@@ -41,7 +41,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMashaka&hide=React,Sass,Django,JavaScript,Fllutter,java,html,css&theme=radical)](https://github.com/AdamMashaka/github-readme-stats)
 
-[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/Adam Katani)
+[![Become a patron](adam.png)](https://www.patreon.com/Adam Katani)
 
 <h3>My Tech stack</h3>
 <ul>
