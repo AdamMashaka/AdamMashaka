@@ -11,6 +11,8 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 
  - 📫 How to reach me: [adammashaka@gmail.com](mailto:mashakaadam123@gmail.com);
  - 🔗 My Website: https://adamportifolio.netlify.app/
+ -    My Twiter handle: https://x.com/AdamMashak1?t=WM5zUPjtJJRIojT64oFbVg&s=08
+ -    My LinkidInn:   https://www.linkedin.com/in/adam-katani-b791b2259
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
   
  <br>
