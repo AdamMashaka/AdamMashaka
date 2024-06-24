@@ -37,7 +37,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamMashakas&show_icons=true&locale=en" alt="AdamMashaka" /></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=AdamMashaka'></p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
