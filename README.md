@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <p>Hi there 👋 !</p>
 
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)](https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)
 
 ### Who am I ?
 <p>
@@ -148,9 +147,9 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li><a href="https://github.com/kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
             <li><a href="https://nextsms.github.io/python-client/">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
             <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
-            <li><a href="https://github.com/Kalebu/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
-            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.</li>
-            <li><a href = "https://github.com/kalebu/python-dpo">DirectPayOnline</a> A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)</li>
+            <li><a href="https://github.com/AdamMashaka/fraud_detection">Fraud </a>Python package to ease fraud detection API integration</li>
+            <li><a href ="https://github.com/AdamMashaka/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.</li>
+            <li><a href = "https://github.com/AdamMashaka/python-dpo">DirectPayOnline</a> A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)</li>
         </ul>
     </li>
     <li>
