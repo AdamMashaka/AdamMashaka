@@ -12,7 +12,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
  - 📫 How to reach me: [adammashaka@gmail.com](mailto:mashakaadam123@gmail.com);
  - 🔗 My Website: https://adamportifolio.netlify.app/
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
- 
+  
  <br>
 <h3>Profile Views</h3>
  <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
