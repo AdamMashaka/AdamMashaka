@@ -1,242 +1,42 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Adam Mashaka</h1>
 
-<!--
-**AdamMashaka/AdamMashaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-![](https://komarev.com/ghpvc/?username=AdamMashaka)
+<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
+ - 📫 How to reach me: [desphixs@gmail.com](mailto:mashakaadam123@gmail.com);
+ - 🔗 My Website: Coming Soon...
+<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
+ 
+ <br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
+ 
+ </br>
 
-<samp>
-<p>Hi there 👋 !</p>
+**Languages and Tools::**
+<br>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br />
+<br />
+<br />
 
-### Who am I ?
-<p>
-I'm <b><a href="https://AdamMashaka.dev/author/AdamMashaka/">AdamMashaka</a></b>, A Data scientist and Software developer, Ever since I came across this world of programming and Data staff I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including <b>Smart-shamba</b> (AI tool that links people with no internet access to Internet through SMS), <b>KILIMO TEXT</b> (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later <b>VIRTUAL ROBOTICS LAB</b> (A virtual lab thats allow students to interactive learn robotics knowledge).
-
-### Graduate from university of Dar es salaam
-
-Perhaps of having a background in Computer Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowdays I mainly work as a Software Engineer
-
-### what I'm good at
-
-I have rich experience in developing (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices, and DevOps using Python at high quality following best practices. I worked with High-quality clients including Imperial Marketing Agency and Harlos Company and developed a solutions that is being used by thousands of people
-
-### Opensource advocate
-
-I'm also a huge advocate of open-source software maintaining over 8 open-source python packages and also have spoken to a couple of conferences, webinars, and podcasts about open-source and Python.
-
-### Content creator
-
-For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my [personal blog](http://AdamKatani.dev/) and republish on multiple platforms such as Predict my crops, where is the venue and etc
-
-
-### Hire me 
-
-I'm primarily work for Contracts works and But also open to full time roles , Let's talk 👯
-
-
-
-</p>
-
-[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/AdamMashaka)
-
-<h3>My Tech stack</h3>
-<ul>
-    <li>
-        <p><b>languages</b></p>
-        <ul>
-            <li>Python | Javascript | Rust | C/C++ | Arduino </li>
-            <li>Html | Css | Yaml | Json</li>
-        </ul>
-    </li>
-    <li>
-        <p><b>Frameworks & Tools</b></p>
-        <ul>
-            <li>
-                <p>Web Frameworks</p>
-                <ul>
-                    <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
-                </ul>
-            <li>
-                <p>Data Science (ML/AI)</p>
-                <ul>
-                    <li>Sklearn | PyTorch | Tensorflow</li>
-                </ul>
-            </li>
-            <li>
-                <p> Databases & Storange</p>
-                <ul>
-                    <li> Sqlite | Mysql | MariaDB | Amazon Auora</li>
-                    <li>MongoDB | Firestore | Amazon DocumentDB </li>
-                    <li> DynamoDB | S3 | Kinesis |  Redis</li>
-                </ul>
-                </li>
-            <li>
-                <p>Serverless</p>
-                <ul>
-                    <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
-                    <li> Google Cloud run</li>
-                </ul>
-                </li>
-            <li>
-                <p>IoT</p>
-                <ul>
-                    <li>Aws IoT Core | Aws Greengrass | Aws FreeRTOS</li>
-                    <li>socketserver | Paho </li>
-                    <li> Raspberry Pi | NodeMCU | Arduino</li>
-                </ul>
-            </li>
-        <li>
-            <p> Cloud & Hosting</samp</p>
-            <ul>
-                <li>AWS | Google Cloud | Digital Ocean | Heroku | Vercel </li>
-            </ul>
-        </li>
-        <li>
-            <p> API Testing</samp</p>
-            <ul>
-                <li> Insomia | Postman </li>
-            </ul>
-        </li>
-        <li>
-            <p> Distros </samp</p>
-            <ul>
-                <li> Ubuntu | Deepin | Kali </li>
-            </ul>
-        </li>
-        <li>
-            <p> Shells </samp</p>
-            <ul>
-                <li> Zsh | Bash  </li>
-            </ul>
-        </li>
-        <li>
-            <p> Version Control </samp</p>
-            <ul>
-                <li> Git | Github  </li>
-            </ul>
-        </li>
-        <li>
-            <p> Code Editor(IDE) + Environment </samp</p>
-            <ul>
-                <li> VSCode | Sublime | Vim | Nano  </li>
-                <li> Music + Coffee + Snacks
-            </ul>
-        </li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Open Source </b></p>
-        <p> Here couple of open source projects I maintain</p>
-        <ul>
-            <li><a href = "https://AdamMashaka.github.io/datazetu">Pyswahili</a> Swahili Version of Python programming language</li>
-            <li><a href="https://github.com/kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
-            <li><a href="https://nextsms.github.io/python-client/">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
-            <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
-            <li><a href="https://github.com/AdamMashaka/fraud_detection">Fraud </a>Python package to ease fraud detection API integration</li>
-            <li><a href ="https://github.com/AdamMashaka/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.</li>
-            <li><a href = "https://github.com/AdamMashaka/python-dpo">DirectPayOnline</a> A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)</li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Works </b></p>
-        <p>These are some of companies with my fingerprints</p>
-        <ul>
-            <li>
-                <a href="https://www.kopagas.com/">Kopagas</a> |
-                <a href="https://www.imc.co.tz/">Imperial Marketing Agency(IMC)</a> |
-                <a href="https://www.linkedin.com/company/harlos-comp-limited/">Harlos Containers</a> |
-                <a href="https://amazethu.com/"> Amazethu </a> |
-                <a href="http://alienat.work/"> AlienAtWork </a> |
-                <a href="https://logrocket.com/"> Logrocket </a> |
-                <a href="https://draft.dev/"> Draft.dev </a> 
-            </li>
-        </ul>
-    </li>
-    <li>
-        <p><b>Blog And Articles</b></p>
-        <p>Sometimes I write technical articles & tutorials on these platform </p>
-        <ul>
-            <li>
-                <a href="https://AdamMashaka.dev/">Personal Blog</a> |
-                <a href="https://dev.to/AdamMashaka">Dev.to</a> |
-                <a href="https://hashnode.com/@AdamMashaka">Hashnode</a> |
-                <a href="https://hackernoon.com/u/AdamMashaka">Hackernoon</a> |
-                <a href="https://AdamKatani.medium.com/">Medium</a> |
-                <a href="https://t.me/Adam">Telegram</a>    
-            </li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Talks  </b></p>
-        <p> Wanna invite me to talk/conference, Please email at <b>mashakaadam123gmail.com</b></p>
-        <ul>
-            <li><a href = "https://medium.com/dive-into-python-3/interview-with-kalebu-jordan-diving-into-python-3-cb9498bdf798"> Dive into Python (2020) </a></li>
-            <li><a href="https://www.youtube.com/watch?v=7BqeN--xHzY"> Pycon Tanzania 2020 (Python for Embedded & IoT)</a></li>
-            <li><a href="https://www.youtube.com/watch?v=Djtzp3RCKWA"> Opensource in Tanzania and Hacking Arduino + ESP32 with MRuby </a></li>
-            <li><a href = "https://calendly.com/AdamKatani">Book a meeting with me</a></li>
-        </ul>
-    </li>
-    <li>
-        <b> Courses </b>
-        <ul>
-            <li><a href = "https://barmaga.io/en/courses/apis-with-flask-sw/lectures/1-build-api-with-flask-and-python-1">Building API with Python and Flask </a></li>
-        </ul>
-    </li>
-    <li>
-        <b>Podcasts</b>
-        <ul>
-            <li><a href = "https://www.audible.com/pd/Mchango-kwenye-Open-Source-Community-na-Kalebu-Podcast/B08WJR9T64">Mchango kwenye Open Source Community na Kalebu</a></li>
-            <li><a href = "https://podcasts.apple.com/tz/podcast/freelancer-kwa-miaka-5-nitakusimulia-changamoto-na-fursa/id1450412561?i=1000531688182">Freelancer kwa miaka 5 nitakusimulia changamoto na fursa</a></li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Hobbies </b></p>
-        <ul>
-            <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
-            <li>
-            <p>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p?
-            <p align="center">
-</p>
-               </li>
-            <li> 
-                <p> Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...) </p>
-<a href = "https://www.tripadvisor.com/Profile/kalebu_gwalugano?fid=820d86ba-781d-4a39-8c9e-b58bea82ec2a">    <img src = "https://logos-world.net/imageup/Tripadvisor/Tripadvisor-Logo-PNG5.png" height="100" width="150"></a
-            </li>
-            <li>Space (Huge fan of space, sometimes I take it seriously as code)</li>
-            <li>.....</li>    
-        </ul>
-    </li>
-    <li>  
-        <p><b>How to reach me !! <b><p>
-        <ul>
-            <li>
-                <a href = "#">mashakaadam123gmail.com</a> | 
-                <a href = "https://twitter.com/AdamMashaka1">twittter</a> |
-                <a href = "https://www.instagram.com/AdamMashaka/">instagram</a> |
-                <a href = "https://www.linkedin.com/in/Adam-katani/" >linkedin</a> |
-                <a href = "https://web.facebook.com/">facebook</a> 
-            </li>
-        </ul>
-    </li>
-</ul>
-</samp>
-
-                         
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![AdamMashaka github stats](https://github-readme-stats.vercel.app/api?username=AdamMashaka&count_private=true&show_icons=true) 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
