@@ -153,7 +153,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
         <p> Here couple of open source projects I maintain</p>
         <ul>
             <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
-            <li><a href="https://kalebu.github.io/python-pesa/">Pypesa</a> Python package to easy integration with Mpesa API</li>
+            <li><a href="https://github.com/AdamMashaka/TanzanianHeritage/">TZ heritage</a> It is local open source that deal with our local greetings</li>
             <li><a href="https://github.com/kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
             <li><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </li>
             <li><a href="https://kalebu.github.io/mtaa-docs/">Mtaa</a> Python package with all Tanzania locations from regions to streets </li>
