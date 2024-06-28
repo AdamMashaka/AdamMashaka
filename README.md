@@ -17,6 +17,14 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
  -    My Twiter handle: https://x.com/AdamMashak1
  -    My LinkidInn:   https://www.linkedin.com/in/adam-katani-b791b2259
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-minzemalulu)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Gabe_2310) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.gabriel_d)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gabriel-Dee) 
+<p align="left">
+<a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabriel minzemalulu" height="30" width="40" /></a>
+</p>
   
  <br>
 <h3>Profile Views</h3>
