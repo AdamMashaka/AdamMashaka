@@ -20,8 +20,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/adam-katani-b791b225)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdamMashaka1) 
-[![cchrome](https://img.shields.io/badge/chrome-%230077B5.svg?logo=chrome&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/adamportifolio.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adam Katani)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AdamKatani)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AdamKatani) 
 <p align="left">
 <a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Adam Mashaka" height="30" width="40" /></a>
