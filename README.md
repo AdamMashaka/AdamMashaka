@@ -50,8 +50,6 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a web and mobile
 <br />
 <br />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMashaka&hide=React,Sass,Django,JavaScript,Fllutter,java,html,css&theme=radical)](https://github.com/AdamMashaka/github-readme-stats)
-
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdamMashaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
