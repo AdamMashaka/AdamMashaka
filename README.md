@@ -143,5 +143,6 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
         <ul>
             <li><a href = "https://github.com/AdamMashaka/python-in-swahili">Pyswahili</a> Swahili Version of Python programming language</li>
             <li><a href="https://github.com/AdamMashaka/TanzanianHeritage/">TZ heritage</a> It is local open source that deal with our local greetings</li>
+           <li><a href="https://github.com/AdamMashaka/theft-opensource">TheftDetector</a>a>It is the AI model that we have to make it to be very prfect so as we detect with big accurately number of fraud transaction in our daily life
         </ul>
     </li>
