@@ -12,7 +12,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
- - 📫 How to reach me: [adammashaka123@gmail.com](mailto:mashakaadam123@gmail.com);
+ - 📫 How to reach me: [adammashaka@gmail.com](mailto:mashakaadam123@gmail.com);
  - 🔗 My Website: https://adamportifolio.netlify.app/
  -    My Twiter handle: https://x.com/AdamMashak1
  -    My LinkidInn:   https://www.linkedin.com/in/adam-katani-b791b2259
