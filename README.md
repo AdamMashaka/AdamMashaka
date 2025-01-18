@@ -23,7 +23,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AdamKatani)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AdamKatani) 
 <p align="left">
-<a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Adam Mashaka" height="30" width="40" /></a>
+<a href="https://kaggle.com/Adam Mashaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Adam Mashaka" height="30" width="40" /></a>
 </p>
   
  <br>
