@@ -48,7 +48,7 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdamMashaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdamMashaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMashaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/AdamKatani)
 
